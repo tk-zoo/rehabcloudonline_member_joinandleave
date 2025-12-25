@@ -1,0 +1,2 @@
+# rehabcloudonline_member_joinandleave
+rehabstudio.online用GoogleWorkspaceユーザー管理シートの処理用GAS
